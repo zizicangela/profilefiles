@@ -1,9 +1,3 @@
-spring:
-  datasource:
-    url: jdbc:mysql://accounts:3306/accountsdb
-    username: root
-    password: "{cipher}ea314ecf62ee347afb6518558385e83de91d6d18a32aa20fba02f81e45d505c3"
-    driver-class-name: com.mysql.cj.jdbc.Driver
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
